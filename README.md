@@ -1,10 +1,9 @@
-<h3 align="center">
-<p>Project for IFT6504 - Mathematical Programming
-</h3>
+### Project for IFT6504 - Mathematical Programming
+
 This is a final project for the course IFT6504 - Mathematical Programming, offered at University of Montreal.
-<h3 align="center">
-<p>Abstract
-</h3>
+
+### Abstract
+
 In recent years, streaming services have become increasingly popular, revolutionizing the way people
 consume media such as movies, TV shows, and music. This trend can be attributed to several factors
 such as the increasing availability and accessibility of high-speed internet, the growing demand for
@@ -30,7 +29,5 @@ of leaders sequentially in the form of reformulated value function. There are th
 for our algorithm: a Nash equilibrium where no leaders want to change their best responses, a local
 equilibrium that we define specifically for this game, and a case when no equilibrium found that can
 potentially provide some insights into the competition.
-<br>
-<br>
 
 The report of this project, formatted as a paper, can be found [here](./IFT6504_Project_Report.pdf), along with the [tutorial](./IFT6504_Project_Tutorial.html).
