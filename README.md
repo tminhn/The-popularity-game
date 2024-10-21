@@ -31,6 +31,6 @@ for our algorithm: a Nash equilibrium where no leaders want to change their best
 equilibrium that we define specifically for this game, and a case when no equilibrium found that can
 potentially provide some insights into the competition.
 
-
+<br>
 
 The report of this project, formatted as a paper, can be found [here](./IFT6504_Project_Report.pdf), along with the [tutorial](./IFT6504_Project_Tutorial.html).
