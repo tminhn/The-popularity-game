@@ -29,6 +29,6 @@ approach to solve this game is to implement a cutting plane method then solve fo
 of leaders sequentially in the form of reformulated value function. There are three possible solutions
 for our algorithm: a Nash equilibrium where no leaders want to change their best responses, a local
 equilibrium that we define specifically for this game, and a case when no equilibrium found that can
-potentially provide some insights into the competition.<br>
-
+potentially provide some insights into the competition.
+---
 The report of this project, formatted as a paper, can be found [here](./IFT6504_Project_Report.pdf), along with the [tutorial](./IFT6504_Project_Tutorial.html).
